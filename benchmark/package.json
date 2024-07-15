@@ -51,7 +51,7 @@
     "@middy/http-event-normalizer": "^2.0.1",
     "@middy/http-header-normalizer": "^2.0.1",
     "@middy/http-json-body-parser": "^2.0.1",
-    "@middy/http-multipart-body-parser": "^2.0.1",
+    "@middy/http-multipart-body-parser": "^5.4.5",
     "@middy/http-partial-response": "^2.0.1",
     "@middy/http-response-serializer": "^2.0.1",
     "@middy/http-security-headers": "^2.0.1",
@@ -65,8 +65,8 @@
     "@middy/sqs-partial-batch-failure": "^2.0.1",
     "@middy/ssm": "^2.0.1",
     "@middy/sts": "^2.0.1",
-    "aws-sdk": "^2.939.0",
-    "knex": "^0.95.4",
+    "aws-sdk": "^2.1659.0",
+    "knex": "^2.4.0",
     "middy-rds": "*"
   },
   "devDependencies": {
@@ -75,7 +75,7 @@
     "@rollup/plugin-node-resolve": "^11.2.1",
     "autocannon": "^6.5.0",
     "benchmark": "^2.1.4",
-    "clinic": "10.0.0",
+    "clinic": "13.0.0",
     "rollup": "^2.45.1",
     "rollup-plugin-terser": "^7.0.2"
   },
