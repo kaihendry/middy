@@ -55,7 +55,7 @@
     "@middy/http-partial-response": "^2.0.1",
     "@middy/http-response-serializer": "^2.0.1",
     "@middy/http-security-headers": "^2.0.1",
-    "@middy/http-urlencode-body-parser": "^2.0.1",
+    "@middy/http-urlencode-body-parser": "^6.4.5",
     "@middy/http-urlencode-path-parser": "^2.0.1",
     "@middy/input-output-logger": "^2.0.1",
     "@middy/rds-signer": "^2.0.1",
@@ -76,7 +76,7 @@
     "autocannon": "^6.5.0",
     "benchmark": "^2.1.4",
     "clinic": "13.0.0",
-    "rollup": "^2.45.1",
+    "rollup": "^2.79.2",
     "rollup-plugin-terser": "^7.0.2"
   },
   "gitHead": "7a6c0fbb8ab71d6a2171e678697de9f237568431"
