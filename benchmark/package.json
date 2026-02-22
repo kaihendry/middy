@@ -65,7 +65,7 @@
     "@middy/sqs-partial-batch-failure": "^2.0.1",
     "@middy/ssm": "^2.0.1",
     "@middy/sts": "^2.0.1",
-    "aws-sdk": "^2.1659.0",
+    "aws-sdk": "^2.1693.0",
     "knex": "^2.4.0",
     "middy-rds": "*"
   },
@@ -76,7 +76,7 @@
     "autocannon": "^6.5.0",
     "benchmark": "^2.1.4",
     "clinic": "13.0.0",
-    "rollup": "^2.45.1",
+    "rollup": "^2.80.0",
     "rollup-plugin-terser": "^7.0.2"
   },
   "gitHead": "7a6c0fbb8ab71d6a2171e678697de9f237568431"
